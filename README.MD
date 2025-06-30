@@ -25,7 +25,7 @@ Construída com .NET Core, permite criar, ler, atualizar e deletar informações
 
 ## 📚 Estrutura do Projeto
 
-src/
+```text src/
 ├── 📁 Controllers         → Rotas dos endpoints da API (entrada do usuário)
 ├── 📁 Models              → Entidades principais do sistema (como Robô, Poder)
 ├── 📁 Services            → Lógica de negócio, onde as decisões do robô acontecem
@@ -35,7 +35,7 @@ src/
 │   ├── 📁 EntityFramework → Configurações do banco com EF 
 │   │   ├── 📁 Context     → DbContext e configurações do banco
 │   │   └── 📁 Migrations  → Histórico de alterações do banco
-│   └── 📁 Repositories    → Repositórios com acesso a dados
+│   └── 📁 Repositories    → Repositórios com acesso a dados```
 
 ---
 
