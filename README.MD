@@ -1,3 +1,5 @@
+📝 Essa versão é um fork com foco na documentação, criada como parte de um desafio prático.
+
 # 🤖 MegaApiDotnetCore – API de Robôs com .NET Core
 
 *Documentação feita com amor e apoio da IA para criar tecnologia com alma.* 💜
@@ -161,13 +163,16 @@ Clique nos métodos para ver os detalhes e fazer requisições.
 
 Quer colaborar? Siga os passos abaixo:
 
-- Fork o repositório
-- Crie um branch: `git checkout -b feature/nova-funcionalidade`
-- Faça suas alterações
-- Envie um Pull Request
 
-**Estilo de commit sugerido**: `tipo: descrição`  
-Exemplo: `feat: adiciona endpoint para deletar robô`
+Este projeto é um fork da [MegaApiDotnetCore original](https://github.com/felipeAguiarCode/MegaApiDotnetCore).
+
+Caso deseje contribuir com o projeto principal, acesse o repositório original e siga os passos por lá.
+
+Se quiser sugerir melhorias nesta versão documentada por mim, você pode:
+
+- Fazer um fork deste repositório
+- Criar um branch: git checkout -b melhorias-documentacao
+- Enviar um Pull Request 💜
 
 ---
 
@@ -183,7 +188,7 @@ Exemplo: `feat: adiciona endpoint para deletar robô`
 
 Abaixo, uma captura de tela mostrando o projeto aberto com a seção de melhorias futuras:
 
-![Visão do projeto no editor](docs/Apresentação_ByChatgpt.png)
+![Visão do projeto no editor](_docs/Apresentacao_ByChatgpt.png)
 
 
 ---
@@ -203,7 +208,7 @@ Ainda não, mas o Lumi tá pronto pra pilotar um! 😄🤖
 
 ## 📸 Diagrama de Estrutura
 
-![Diagrama da API](docs/Diagrama-Api.png)
+![Diagrama da API](_docs/Diagrama-Api.png)
 
 ---
 
