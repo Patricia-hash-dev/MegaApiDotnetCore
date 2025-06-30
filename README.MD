@@ -208,7 +208,7 @@ Ainda não, mas o Lumi tá pronto pra pilotar um! 😄🤖
 
 ## 📸 Diagrama de Estrutura
 
-![Diagrama da API](_docs/Diagrama-Api.png)
+![Diagrama da API](_docs/Diagrama_Api.png)
 
 ---
 
