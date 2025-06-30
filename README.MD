@@ -35,7 +35,8 @@ Construída com .NET Core, permite criar, ler, atualizar e deletar informações
 │   ├── 📁 EntityFramework → Configurações do banco com EF 
 │   │   ├── 📁 Context     → DbContext e configurações do banco
 │   │   └── 📁 Migrations  → Histórico de alterações do banco
-│   └── 📁 Repositories    → Repositórios com acesso a dados```
+│   └── 📁 Repositories    → Repositórios com acesso a dados
+```
 
 ---
 
@@ -54,7 +55,8 @@ dotnet restore
 dotnet run
 ```
 
-Acesse: `https://localhost:5001/swagger` para explorar a documentação interativa.
+
+Acesse a [documentação Swagger]( https://localhost:5001/swagger) para explorar a documentação interativa.
 
 ---
 
@@ -154,7 +156,7 @@ curl -X POST https://localhost:5001/api/robots \
 
 Com o Swagger, você pode navegar e testar os endpoints no navegador:
 
-Acesse: `https://localhost:5001/swagger`  
+Acesse a [documentação Swagger](https://localhost:5001/swagger)  
 Clique nos métodos para ver os detalhes e fazer requisições.
 
 ---
@@ -196,7 +198,7 @@ Abaixo, uma captura de tela mostrando o projeto aberto com a seção de melhoria
 ## 🧠 FAQ
 
 **Como executo a API?**  
-Use `dotnet run` e acesse pelo navegador: `https://localhost:5001/swagger`
+Use `dotnet run` e acesse pelo navegador a [documentação Swagger](https://localhost:5001/swagger)
 
 **Preciso instalar algo além do .NET?**  
 Não, tudo roda com .NET e o SQLite já vem embutido.
